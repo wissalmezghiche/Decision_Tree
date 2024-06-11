@@ -13,7 +13,7 @@ This repository contains an implementation of a Decision Tree Classifier, a popu
 ## Installation
 To use this Decision Tree Classifier, clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/yourusername/decision-tree-classifier.git
+git clone https://github.com/wissalmezghiche/Decision_Tree.git
 cd decision-tree-classifier
 pip install -r requirements.txt
 ```
